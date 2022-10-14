@@ -10,8 +10,14 @@
   align-items: center;
   justify-content: center;
   justify-items: center;
-  width: 50%;
-  margin: auto;
+  width: 40%;
+}
+
+.shop-item-group {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
 }
 
 h1 {
