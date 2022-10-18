@@ -1,30 +1,11 @@
-#footer {
-  background-color: black;
-}
-#footer p {
-  color: white;
-}
-#footer p h1 {
-  color: blue;
+form {
+  margin: 10%;
 }
 
 body {
-  background-color: gray;
+  margin: 10%;
 }
 
-#main-heading {
-  text-align: center;
-  font-size: 42px;
-  font-weight: bolder;
+.btn-primary {
+  color: black;
 }
-
-h1 {
-  border: 3px solid white;
-  font-weight: lighter;
-}
-
-h2 {
-  text-align: center;
-}
-
-/*# sourceMappingURL=main.css.map */
