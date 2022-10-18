@@ -1,3 +1,13 @@
+#footer {
+  background-color: black;
+}
+#footer p {
+  color: white;
+}
+#footer p h1 {
+  color: blue;
+}
+
 body {
   background-color: gray;
 }
@@ -9,7 +19,7 @@ body {
 }
 
 h1 {
-  border: 3px solid blue;
+  border: 3px solid white;
   font-weight: lighter;
 }
 
@@ -17,4 +27,4 @@ h2 {
   text-align: center;
 }
 
-
+/*# sourceMappingURL=main.css.map */
