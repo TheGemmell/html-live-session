@@ -1,0 +1,25 @@
+.item-title {
+  margin-block: 5px;
+}
+
+.buy-button {
+  margin-bottom: 5px;
+  font-size: large;
+  padding: 3px 10px;
+}
+
+.shop-item {
+  border: 2px solid black;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  width: 40%;
+}
+
+.shop-item-group {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
+}
